@@ -1,0 +1,6 @@
+dependencies:
+- name: order-service
+  repository: file://../../../order-service-repo/helm
+  version: 0.1.0
+digest: sha256:c0e2cd5a255c4050128ffc0773cfcc5678931e0fd284dea7411fc4b0a2ca0cf1
+generated: "2026-08-13T21:45:21.9827038+05:30"
