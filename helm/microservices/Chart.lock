@@ -1,6 +1,6 @@
 dependencies:
 - name: order-service
-  repository: file://../../../order-service-repo/helm
+  repository: oci://684120555936.dkr.ecr.ap-south-1.amazonaws.com
   version: 0.1.0
-digest: sha256:c0e2cd5a255c4050128ffc0773cfcc5678931e0fd284dea7411fc4b0a2ca0cf1
-generated: "2026-08-13T21:45:21.9827038+05:30"
+digest: sha256:ea0e59bb981f2fb8b9fadf2651972b6342906b0381867bdc0efd0fb3e5ea83e1
+generated: "2026-08-16T18:18:31.1955666+05:30"
