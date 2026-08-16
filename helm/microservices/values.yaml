@@ -2,4 +2,4 @@ order-service:
   replicaCount: 5
 
   image:
-    tag: "1.30"
+    tag: "1.31"
