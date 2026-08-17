@@ -1,6 +1,6 @@
 dependencies:
 - name: order-service
   repository: oci://684120555936.dkr.ecr.ap-south-1.amazonaws.com
-  version: 1.0.0
-digest: sha256:3612fde475b7f986ca7e3e8818f18339a5ff3d0dcbeca933e770b1cf95a4e595
-generated: "2026-08-17T00:27:28.250331+05:30"
+  version: 1.1.0
+digest: sha256:842a73fe722758a978c7baece3f271d26213afd5cdf44f95f1c55b28749e1c87
+generated: "2026-08-17T19:37:36.8765643+05:30"
